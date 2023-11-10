@@ -1,0 +1,9 @@
+.external-div {
+    background-color: rgb(190, 11, 11); 
+}
+
+.internal-div {
+    margin: 20px; 
+    padding: 10px; 
+    border: 2px solid black; 
+}
